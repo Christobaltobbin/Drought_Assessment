@@ -45,7 +45,7 @@ Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years
 ## Workflow screenshots
 ### Loading raster bands in QGIS
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232346572-9705aeab-9da9-48c1-a84f-bd8fb69b7ba2.png" align="left" width="450" height="300">
+  <img src="https://user-images.githubusercontent.com/116877317/232346572-9705aeab-9da9-48c1-a84f-bd8fb69b7ba2.png" align="left" width="550" height="400">
 </p>
 
 ### NDVI calculation using Raster Calculator
@@ -70,5 +70,5 @@ Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years
 
 ### Performing Random Forest classification for Landcover map
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232347679-561445a4-289d-40ba-b7cd-b4b8de9a6dd8.png" align="right" width="450" height="310">
+<img src="https://user-images.githubusercontent.com/116877317/232347679-561445a4-289d-40ba-b7cd-b4b8de9a6dd8.png" width="450" height="310">
 </p>
