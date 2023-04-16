@@ -36,7 +36,7 @@ From the VCI maps, the disparity of drought intensity percentages in Matongo for
 ## Conclusion
 This study assessed the agriculture drought in the Matongo region of Tanzania using Landsat imagery and the vegetation condition index (VCI). The VCI was derived from the difference between the maximum and minimum NDVI values and the NDVI values for the respective years. The results showed that the Matongo region experienced severe droughts in 2002 and  2008 with a VCI range of 0-20%, while 2014 had the highest VCI range of 75%. This study highlights the importance of remote sensing-based indices in monitoring drought conditions in agricultural areas, especially in regions vulnerable to climate change and by doing so, drought or conditions leading to drought can be detected and adequate measures can be triggered to mitigate the drought and its negative impacts.
 
-##References
+## References
 Shen, Q., Liang, L., Qian, X., Sun, Q., Zhang, L., Liu, Z., . . . Qin, Z. (2016). Drought trends based on the VCI and its correlation with climate factors in the agricultural areas of China from 1982 to 2010. Environ Monit Assess.
 Wilhite, D. A., & Glantz, M. H. (n.d.). Understanding: the Drought Phenomenon: The. Water International.
 Wulder, M. A., Masek, J. G., Cohen, W. B., Loveland, T. R., & Woodcock, C. E. (n.d.). Opening the archive: How free data has enabled the science and monitoring promise of Landsat. Remote Sensing of the Environment.
