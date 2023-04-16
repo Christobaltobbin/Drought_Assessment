@@ -8,7 +8,7 @@ Some of the common methods of agriculture drought monitoring is by using indices
 Matongo is located in the northern parts of Tanzania, in the Kilimanjaro region and lies between latitude 3.2806° S and  longitude of 37.1958° E. The region has a hilly landscape with elevations ranging from 600 to 1800m above sea level. Matongo falls within the tropical climate with raining  seasons from March to May and between October and December. Matongo is known for its agriculture with crops such as coffee, maize, beans, and bananas being cultivated. In addition to agriculture, the Matongo region is also home to several tourist attractions, including the Kilimanjaro National Park and the Marangu Waterfalls.
 Overall, the Matongo region is an important agricultural area in Tanzania, with a favorable climate and fertile soil supporting the production of high-quality crops. Its location near Mount Kilimanjaro also makes it an important tourist destination, contributing to the local economy. The land cover map of Matongo indicates that most of the region is covered by forest and is followed by agriculture and shrubland.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232340261-6e9928fc-40f3-4bad-940a-81e29a77a33e.png" align="middle" width="400" height="400">
+  <img src="https://user-images.githubusercontent.com/116877317/232340261-6e9928fc-40f3-4bad-940a-81e29a77a33e.png" align="middle" width="248" height="357">
 </p>
 
 ## Data
@@ -30,5 +30,15 @@ Where ´i´ is for pixel, ´p´ for period and ´y´ the year respectively. For 
 From the VCI maps, the disparity of drought intensity percentages in Matongo for the years 2002, 2008, 2014 and 2020 is illustrated in figure below. The Matongo region reached the lowest percentage of VCI and thus experienced an extreme drought in 2008 (0-10%) and the highest VCI in 2014(75%). The years 2002 exhibited moderate and severe drought while 2020 light to no droughts.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232346024-ff62205b-fd4c-4da1-8b7d-99a7e9e65720.png" align="middle" width="400" height="400">
+  <img src="https://user-images.githubusercontent.com/116877317/232346024-ff62205b-fd4c-4da1-8b7d-99a7e9e65720.png" align="middle" width="248" height="350">
 </p>
+
+## Conclusion
+This study assessed the agriculture drought in the Matongo region of Tanzania using Landsat imagery and the vegetation condition index (VCI). The VCI was derived from the difference between the maximum and minimum NDVI values and the NDVI values for the respective years. The results showed that the Matongo region experienced severe droughts in 2002 and  2008 with a VCI range of 0-20%, while 2014 had the highest VCI range of 75%. This study highlights the importance of remote sensing-based indices in monitoring drought conditions in agricultural areas, especially in regions vulnerable to climate change and by doing so, drought or conditions leading to drought can be detected and adequate measures can be triggered to mitigate the drought and its negative impacts.
+
+##References
+Shen, Q., Liang, L., Qian, X., Sun, Q., Zhang, L., Liu, Z., . . . Qin, Z. (2016). Drought trends based on the VCI and its correlation with climate factors in the agricultural areas of China from 1982 to 2010. Environ Monit Assess.
+Wilhite, D. A., & Glantz, M. H. (n.d.). Understanding: the Drought Phenomenon: The. Water International.
+Wulder, M. A., Masek, J. G., Cohen, W. B., Loveland, T. R., & Woodcock, C. E. (n.d.). Opening the archive: How free data has enabled the science and monitoring promise of Landsat. Remote Sensing of the Environment.
+Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI). Remote Sensing, 20.
+
