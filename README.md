@@ -29,3 +29,6 @@ Where ´i´ is for pixel, ´p´ for period and ´y´ the year respectively. For 
 ## Results
 From the VCI maps, the disparity of drought intensity percentages in Matongo for the years 2002, 2008, 2014 and 2020 is illustrated in figure below. The Matongo region reached the lowest percentage of VCI and thus experienced an extreme drought in 2008 (0-10%) and the highest VCI in 2014(75%). The years 2002 exhibited moderate and severe drought while 2020 light to no droughts.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232346024-ff62205b-fd4c-4da1-8b7d-99a7e9e65720.png" align="middle" width="400" height="400">
+</p>
