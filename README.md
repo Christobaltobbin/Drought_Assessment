@@ -42,3 +42,33 @@ Wilhite, D. A., & Glantz, M. H. (n.d.). Understanding: the Drought Phenomenon: T
 Wulder, M. A., Masek, J. G., Cohen, W. B., Loveland, T. R., & Woodcock, C. E. (n.d.). Opening the archive: How free data has enabled the science and monitoring promise of Landsat. Remote Sensing of the Environment.
 Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years of Agricultural Drought Assessment of the BioBío Region in Chile Using a 250 m Resolution Vegetation Condition Index (VCI). Remote Sensing, 20.
 
+## Workflow screenshots
+### Loading raster bands in QGIS
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232346572-9705aeab-9da9-48c1-a84f-bd8fb69b7ba2.png" align="left" width="450" height="300">
+</p>
+
+### NDVI calculation using Raster Calculator
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232347052-9ed02822-9f54-4205-9621-232f316e8eee.png" align="right" width="450" height="310">
+</p>
+
+### Maximun and Minimum NDVI values
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232347260-89e300ff-739f-430e-9ca8-606cabe19d00.png" align="right" width="450" height="310">
+</p>
+
+### VCI calculation utilizing Raster Calculator
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232347363-1897c99e-0562-4cc7-871a-31f8c05c0081.png" align="right" width="450" height="310">
+</p>
+
+### Loading bands into Semi-automatic classification plugin 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232347581-262b9097-0ea3-4fcd-8fe4-38efc5e4ca1a.png" align="right" width="450" height="310">
+</p>
+
+### Performing Random Forest classification for Landcover map
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116877317/232347679-561445a4-289d-40ba-b7cd-b4b8de9a6dd8.png" align="right" width="450" height="310">
+</p>
