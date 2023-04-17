@@ -14,6 +14,7 @@ Overall, the Matongo region is an important agricultural area in Tanzania, with 
 ## Data
 Landsat imagery is one of the most important source of remote sensing satellite data and has been used in several studies and disciplines across the globe.  The Landsat satellite program has been providing high-quality, multispectral remote sensing data for over 40 years (Wulder, Masek, Cohen, Loveland, & Woodcock).
 Landsat imagery is multispectral which enables it to captures information in multiple spectral bands. The Landsat sensors capture data in seven spectral bands, ranging from the visible to the thermal infrared (Wulder, Masek, Cohen, Loveland, & Woodcock). In this paper, we would use these multispectral information to analyse drought through the  VCI.
+### Link for images
 [Click here to download the Landsat images](https://drive.google.com/drive/folders/11lsjZAev6du6TO-Vk1G_YG2R3VyjnrQy?usp=sharing)
 
 ## Method
