@@ -44,31 +44,20 @@ Zambrano, F., Lillo-Saavedra, M., Verbist, K., & Lagos, O. (2016). Sixteen Years
 
 ## Workflow screenshots
 ### Loading raster bands in QGIS
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232346572-9705aeab-9da9-48c1-a84f-bd8fb69b7ba2.png" align="left" width="550" height="400">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-16%20232524.png)
+
 
 ### NDVI calculation using Raster Calculator
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232347052-9ed02822-9f54-4205-9621-232f316e8eee.png" align="right" width="450" height="310">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-16%20232704.png)
 
 ### Maximun and Minimum NDVI values
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232347260-89e300ff-739f-430e-9ca8-606cabe19d00.png" align="right" width="450" height="310">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-16%20232913.png)
 
 ### VCI calculation utilizing Raster Calculator
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232347363-1897c99e-0562-4cc7-871a-31f8c05c0081.png" align="right" width="450" height="310">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-16%20233934.png)
 
 ### Loading bands into Semi-automatic classification plugin 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/116877317/232347581-262b9097-0ea3-4fcd-8fe4-38efc5e4ca1a.png" align="right" width="450" height="310">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-16%20234742.png)
 
 ### Performing Random Forest classification for Landcover map
-<p align="center">
-<img src="https://user-images.githubusercontent.com/116877317/232347679-561445a4-289d-40ba-b7cd-b4b8de9a6dd8.png" width="450" height="310">
-</p>
+![alt text](https://github.com/Christobaltobbin/Drought_Assessment/blob/main/Images/Screenshot%202023-04-17%20005758.png)
